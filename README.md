@@ -1,4 +1,4 @@
-<h1 align="center">Heya I'm Freaky also known as Culminated Agony<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<h1 align="center">Heya I'm Freaky also known as CulminatedAgony<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 <h3 align="center">I'm a Czech Game Developer working in UE4</h3>
 
 
