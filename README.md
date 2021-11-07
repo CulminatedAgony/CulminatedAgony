@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center">Heya I'm Freaky also known as Culminated Agony<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<h3 align="center">I'm a Czech Game Developer working in UE4</h3>
 
-<!--
-**CulminatedAgony/CulminatedAgony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ‍🎓 What am I learning? **I'm still learning C++ so that my projects can be done to it's full maximum**
+
+- 📱 How can you contact me? **You can contact me on Discord Freaky#0420(I'm very active there)**
+
+<p align="left"> 
+    <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
+    <a href="https://www.unrealengine.com/" target="_blank"> <img src="https://img.icons8.com/nolan/64/unreal-engine.png"/> </a>
+</p>
