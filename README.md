@@ -6,7 +6,7 @@
 
 - ‍🎓 What am I learning? **I'm still learning C++ so that my projects can be done to it's full maximum**
 
-- 📱 How can you contact me? **You can contact me on Discord Freaky#0420(I'm very active there)**
+- 📱 How can you contact me? **You can contact me on Discord Culminated#0747(I'm very active there)**
 
 <p align="left"> 
     <a href="https://isocpp.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/> </a>
