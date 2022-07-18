@@ -1,9 +1,9 @@
 ## About Me
-- **I'm a game developer from that lives in Czech republic**
+- **I'm a game developer that lives in Czech republic**
 
 - **I work for the game called SCP:Secret Laboratory**
 
-- ‍**I know how to work in C/C++ mainly C++, also I know c# mainly use of it in Unity**
+- ‍**I know how to work in C/C++ mainly C++, I also know c# mainly use of it is in Unity**
 
 - **How can you contact me? You can contact me on Discord Scripted#8408(I'm very active there)**
 
